@@ -14,8 +14,8 @@
 ### 🛠 &nbsp;Tech Stack
 <p>
 <!-- Programming -->
-  <img alt="Hibernate" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Hibernate_logo_bird.svg" width="40" />
-
+<img alt="Hibernate" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Hibernate_logo_bird.svg" width="40" />
+<img alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg.png" width="40" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="assets/java-logo.png" alt="Java" width="120"/>
 <img alt="Hibernate" src="https://logo.svgcdn.com/l/hibernate-original.svg" width="40" />
