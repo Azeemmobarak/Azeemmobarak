@@ -18,10 +18,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="35">
 <table>
   <tr>
-    <td style="background-color:white; padding:6px; border-radius:6px 0 0 6px;">
-      <img src="assets/Spring_Boot.png" width="20">
+    <td style="background:#ffffff; padding:5px 8px;">
+      <img src="assets/Spring_Boot.png" width="18">
     </td>
-    <td style="background-color:#6DB33F; color:white; padding:6px 12px; border-radius:0 6px 6px 0; font-weight:bold;">
+    <td style="background:#6DB33F; color:#fff; padding:5px 14px; font-weight:600;">
       Spring Boot
     </td>
   </tr>
