@@ -14,11 +14,12 @@
 ### 🛠 &nbsp;Tech Stack
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="35">
+
   <span style="
     display: inline-flex;
     align-items: center;
     border: 1px solid #30363d;
-    border-radius: 8px;
+    border-radius: 20px; /* Increased border-radius for capsule effect */
     padding: 6px 12px;
     background-color: #0d1117;
     color: #ffffff;
@@ -29,4 +30,5 @@
     Spring Boot
   </span>
 </div>
+
 
