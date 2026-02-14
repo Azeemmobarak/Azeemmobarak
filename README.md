@@ -16,5 +16,5 @@
 <!-- Programming -->
 <!-- Java -->
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="35">
-<img src="./assets/Spring_Boot.png" width="35">
+<img src="assets/Spring_Boot.png" width="35">
 </p>
