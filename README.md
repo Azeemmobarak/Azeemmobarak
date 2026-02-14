@@ -15,5 +15,5 @@
 <p>
 <!-- Programming -->
 <!-- Java -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40">
 </p>
