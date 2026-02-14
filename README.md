@@ -12,23 +12,21 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-<p>
-<!-- Programming -->
-<!-- Java -->
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="35">
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="35">
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 6px 12px;
+    background-color: #0d1117;
+    color: #ffffff;
+    font-weight: 500;
+    margin-left: 8px;
+  ">
+    <img src="assets/Spring_Boot.png" width="18" style="margin-right: 8px;">
+    Spring Boot
+  </span>
+</div>
 
-<span style="
-display:inline-flex;
-align-items:center;
-border:1px solid #30363d;
-border-radius:8px;
-padding:6px 12px;
-background-color:#0d1117;
-color:#ffffff;
-font-weight:500;
-margin-left:8px;
-">
-  <img src="assets/Spring_Boot.png" width="18" style="margin-right:8px;">
-  Spring Boot
-</span>
-</p>
