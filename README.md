@@ -16,14 +16,17 @@
 <!-- Programming -->
 <!-- Java -->
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="35">
-<table>
-  <tr>
-    <td style="background:#ffffff; padding:5px 8px;">
-      <img src="assets/Spring_Boot.png" width="18">
-    </td>
-    <td style="background:#6DB33F; color:#fff; padding:5px 14px; font-weight:600;">
-      Spring Boot
-    </td>
-  </tr>
-</table>
+<div style="
+display:inline-flex;
+align-items:center;
+border:1px solid #30363d;
+border-radius:8px;
+padding:6px 12px;
+background-color:#0d1117;
+color:#ffffff;
+font-weight:500;
+">
+  <img src="assets/Spring_Boot.png" width="18" style="margin-right:8px;">
+  Spring Boot
+</div>
 </p>
