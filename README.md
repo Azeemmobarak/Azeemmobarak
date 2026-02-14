@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td style="background-color:white; padding:6px; border-radius:6px 0 0 6px;">
-      <img src="assets/spring_boot.png" width="20">
+      <img src="assets/Spring_Boot.png" width="20">
     </td>
     <td style="background-color:#6DB33F; color:white; padding:6px 12px; border-radius:0 6px 6px 0; font-weight:bold;">
       Spring Boot
