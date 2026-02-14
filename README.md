@@ -4,11 +4,14 @@
 <div align="center">
 
 <!-- ANIMATED BADGE HEADER -->
-[![Chasing the Uncertainty](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=4000&pause=1000&color=3695F7&center=true&vCenter=true&width=700&lines=Chasing+the+Uncertainty)](https://git.io/typing-svg)
+
+![Brewing Code with Java ☕;Building RESTful APIs;Designing Microservices](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=4000&pause=1000&color=3695F7&center=true&vCenter=true&width=700&lines=Brewing+Code+with+Java+%E2%98%95;Building+RESTful+APIs;Designing+Microservices)
+
 <div align="center">
-  <h2>"Like quantum particles, I exist in multiple tech stacks simultaneously"</h2>
+  <h2>"Like quantum particles, I exist in multiple tech stacks simultaneously: Java, Spring Boot, RESTful APIs & Microservices"</h2>
 </div>
-</div>
+
+### 🛠 &nbsp;Tech Stack
 
 
 ### 🛠 &nbsp;Tech Stack
