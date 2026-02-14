@@ -16,6 +16,7 @@
 <!-- Programming -->
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="assets/java-logo.png" alt="Java" width="120"/>
+<img alt="Hibernate" src="https://logo.svgcdn.com/l/hibernate-original.svg" width="40" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=coffeescript&logoColor=white"/>
 <img alt="Java" src="https://raw.githubusercontent.com/isocpp/logos/master/java/java_logo.png" width="120"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
