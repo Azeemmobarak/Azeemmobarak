@@ -18,4 +18,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
+
+
+  <div style="display:inline-flex; align-items:center; border-radius:8px; overflow:hidden; font-family:sans-serif;">
+  <div style="background:#ffffff; padding:4px 8px; display:flex; align-items:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
+         width="14" 
+         style="display:block;">
+  </div>
+  <div style="background:#ED8B00; color:white; padding:6px 14px; font-weight:bold; display:flex; align-items:center;">
+    Java
+  </div>
+</div>
 </p>
