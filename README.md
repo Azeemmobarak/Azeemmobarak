@@ -20,6 +20,7 @@
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img alt="Microservices" src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="EJB (Jakarta EE)" src="https://img.shields.io/badge/EJB-6DB33F?style=for-the-badge&logo=jakartaee&logoColor=white"/>
+  <img alt="EJB" src="https://img.shields.io/badge/EJB-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
 
 </p>
 
