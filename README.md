@@ -16,6 +16,16 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="45" style="vertical-align: middle;">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="45" style="vertical-align: middle; margin-left: 8px;">
+  <div style="display:inline-flex; align-items:center; border-radius:8px; overflow:hidden; font-family:sans-serif;">
+  <div style="background:#ffffff; padding:4px 6px; display:flex; align-items:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" 
+         width="38" 
+         style="display:block;">
+  </div>
+  <div style="background:#005073; color:white; padding:6px 14px; font-weight:bold; display:flex; align-items:center;">
+    MySQL
+  </div>
+</div>
 </p>
 
 
