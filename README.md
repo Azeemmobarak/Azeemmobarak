@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="45" style="vertical-align: middle; margin-left: 8px;">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005073?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring_Cloud-00BFFF?style=for-the-badge&logo=spring&logoColor=white"/>
+
 </p>
 
 
