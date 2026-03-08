@@ -21,6 +21,7 @@
   <img alt="Microservices" src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="EJB (Jakarta EE)" src="https://img.shields.io/badge/EJB-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img alt="Servlet" src="https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
 </p>
 
 
